@@ -1,6 +1,6 @@
 # RubyEpg
 
-A gem for scraping my downloading and trimming my Excursion TV playlist and downloading guide data to match
+A gem for downloading and trimming my Excursion TV playlist and downloading guide data to match
 
 ## Installation
 
